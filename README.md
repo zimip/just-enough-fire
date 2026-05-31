@@ -1,4 +1,4 @@
-![logo](./src/client/resources/jef/logo.png)
+![logo](/src/client/resources/jef/logo.png)
 
 # 🔥 Just Enough Fire (JEF)
 

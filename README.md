@@ -1,3 +1,5 @@
+[logo](./assets/jef_logo.png)
+
 # 🔥 Just Enough Fire (JEF)
 
 Ever got annoyed by the massive fire texture blocking your entire screen while you are just waiting for it to go out? **Just Enough Fire (JEF)** is a lightweight Quality of Life (QoL) mod that fixes exactly this problem.

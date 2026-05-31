@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "jef",
+  "version": "${version}",
+  "name": "Just Enough Fire",
+  "description": "QoL client mod that helps visualize how long the fire will last.",
+  "authors": [
+    "zimip"
+  ],
+  "license": "CC0-1.0",
+  "icon": "/jef/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.zimi.client.JustEnoughFire"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "jef.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
